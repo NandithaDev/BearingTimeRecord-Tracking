@@ -1,0 +1,1 @@
+The sonar detected a single target with a unique identifier of 1. This target exhibited a decreasing trajectory, moving from a start bearing of 85 degrees to an end bearing of 36 degrees over the course of 50 time steps. The signal strength was weak, indicated by a SNR of -9 dB.  The motion was characterized as constant with a velocity of -1.

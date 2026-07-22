@@ -1,0 +1,1 @@
+The sonar detected zero targets during this scan. The simulation identified no movement or stationary objects within the observed bearing range of 0 to 180 degrees. Therefore, there were no signals recorded and no targets detected.

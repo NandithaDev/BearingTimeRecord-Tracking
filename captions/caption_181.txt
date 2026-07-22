@@ -1,0 +1,1 @@
+The sonar detected a total of one target. This target exhibited stationary motion with a starting bearing of 128 and an ending bearing of 128 over the course of the simulation. The signal strength was weak, indicated by a Signal-to-Noise Ratio (SNR) of -6 dB. Its velocity remained at zero throughout the observation period.

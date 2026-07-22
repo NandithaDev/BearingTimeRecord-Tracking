@@ -1,0 +1,1 @@
+The sonar detected a total of one target. This target exhibited a constant motion with a decreasing trajectory, originating at a bearing of 98 degrees and terminating at 0 degrees over the course of 50 time steps. The signal strength was moderate, indicated by an SNR of 0 dB and moderate visibility. The target’s velocity was -2 units per step.

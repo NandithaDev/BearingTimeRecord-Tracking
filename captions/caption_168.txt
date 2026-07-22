@@ -1,0 +1,1 @@
+The sonar detected a single target. This target exhibited movement with a constant trajectory, increasing from a starting bearing of 54 degrees to an ending bearing of 152 degrees over the course of 50 time steps. The signal strength was moderate, indicated by a SNR of 0 dB and visibility assessment.

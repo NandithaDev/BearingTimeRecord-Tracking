@@ -1,0 +1,1 @@
+The sonar detected a single target with an ID of 1. This target exhibited a decreasing trajectory, originating from a start bearing of 128 and ending at a bearing of 79 over the course of 50 time steps. The signal associated with this target was classified as weak, indicated by an SNR of -2 dB.  The motion was consistent and constant.
