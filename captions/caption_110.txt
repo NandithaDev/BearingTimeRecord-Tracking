@@ -1,0 +1,1 @@
+The sonar scene indicates the detection of zero targets across the simulated timeframe. No movement or bearing data was recorded within the specified bearing range of 0 to 180 degrees. Signal strength remained at a nominal level, as indicated by the lack of target detections.

@@ -1,0 +1,1 @@
+The sonar detected zero targets during this scan. There were no moving or stationary objects identified within the bearing range of 0 to 180 degrees. Signal strength data was not available for any targets.

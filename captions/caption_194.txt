@@ -1,0 +1,1 @@
+The sonar scene analysis indicates a total of zero targets detected during this simulation (simulation ID 194). No movement or signals were registered within the bearing range of 0 to 180 degrees across the five time steps. Therefore, no targets were identified.
