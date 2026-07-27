@@ -1,1 +1,0 @@
-The sonar detected a total of one target. This target exhibited a constant increasing motion with a starting bearing of 76 and an ending bearing of 125. The signal strength was moderate, indicated by an SNR of 1 dB. The target maintained a consistent velocity of 1 over the duration of the simulation.

@@ -1,1 +1,0 @@
-The sonar detected a total of one target. This target exhibited a constant increasing motion, with a start bearing of 71 and an end bearing of 120. The signal strength was weak, indicated by an SNR of -6 dB. The target’s trajectory demonstrates movement over the duration of the simulation.

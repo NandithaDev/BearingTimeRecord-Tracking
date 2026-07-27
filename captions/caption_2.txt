@@ -1,1 +1,0 @@
-The sonar detected a total of two targets. Target ID 1 was stationary with a start bearing of 125 and an end bearing of 125, exhibiting a weak signal strength of -6 dB. Target ID 2 was moving in an increasing direction, starting at a bearing of 68 and ending at a bearing of 117, characterized by a constant motion and a velocity of 1 with a weak signal strength of -5 dB.

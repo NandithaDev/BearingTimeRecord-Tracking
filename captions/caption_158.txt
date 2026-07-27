@@ -1,1 +1,0 @@
-The sonar detected a total of two targets. Target ID 1 was stationary with a start bearing of 73 and an end bearing of 73, exhibiting a SNR of 4 dB and moderate visibility. Target ID 2 was moving with a start bearing of 62 and an end bearing of 111, demonstrating a constant motion and velocity of 1, while maintaining a SNR of 0 dB and moderate visibility.

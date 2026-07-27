@@ -1,1 +1,0 @@
-The sonar scene currently detects zero targets. All bearing ranges within the simulation (0-180 degrees) have been scanned and yielded no detections. Therefore, there is no movement or signal strength information to report for this particular simulation.

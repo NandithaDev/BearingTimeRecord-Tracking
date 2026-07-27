@@ -1,1 +1,0 @@
-The sonar detected a total of two targets within the simulation. Target ID 1 was stationary with a start bearing of 88 and an end bearing of 88, exhibiting a signal strength of weak visibility. Target ID 2 was also stationary, possessing a start bearing of 72 and an end bearing of 72, characterized by a very weak signal.

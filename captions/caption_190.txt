@@ -1,1 +1,0 @@
-The sonar detected no targets during this simulation. The scene contained zero identified objects across the specified bearing range of 0 to 180 degrees. All signal strengths were recorded as weak, consistent with a lack of acoustic returns.

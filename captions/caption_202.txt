@@ -1,1 +1,0 @@
-The sonar detected a single target with an ID of 1. This target exhibited a constant increasing motion, moving from a starting bearing of 47 degrees to an ending bearing of 145 degrees over the course of 50 time steps. The signal strength was strong, indicated by an SNR of 9 dB and a visibility assessment of ‘strong’.
