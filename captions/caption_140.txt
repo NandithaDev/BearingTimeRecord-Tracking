@@ -1,1 +1,0 @@
-The sonar detected a single target, designated as Target ID 1. This target exhibited a decreasing trajectory, moving from a starting bearing of 95 degrees to an ending bearing of 46 degrees over the course of 50 time steps. The signal strength was weak, indicated by an SNR of -7 dB. The motion was classified as constant with a velocity of -1.

@@ -1,1 +1,0 @@
-The sonar detected zero targets during this scan. This report reflects a quiescent underwater environment based on the provided data.

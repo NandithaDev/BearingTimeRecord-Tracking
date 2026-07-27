@@ -1,1 +1,0 @@
-The sonar detected zero targets during this simulation. No movement or signals were identified within the bearing range of 0 to 180 degrees across all time steps.

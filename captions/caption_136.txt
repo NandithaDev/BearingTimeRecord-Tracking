@@ -1,1 +1,0 @@
-The sonar detected no targets during this simulation. The scene involved zero identified objects across the bearing range of 0 to 180 degrees over the 50 time steps. No movement or positional changes were observed for any potential targets within the recorded data.

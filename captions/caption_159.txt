@@ -1,1 +1,0 @@
-The sonar detected a total of one target. This target exhibited a constant motion and was observed to be decreasing in bearing from a starting bearing of 115 degrees to an ending bearing of 17 degrees over the course of 50 time steps. The signal strength associated with this target was strong, indicated by a SNR of 14 dB and high visibility.
