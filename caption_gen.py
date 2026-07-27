@@ -2,19 +2,15 @@ import os
 import json
 import ollama
 
-# ==========================================================
-# CONFIGURATION
-# ==========================================================
-
+#configure
 JSON_FOLDER = "scene_json"
 CAPTION_FOLDER = "captions"
 MODEL_NAME = "gemma3:4b"
 
 os.makedirs(CAPTION_FOLDER, exist_ok=True)
 
-# ==========================================================
+
 # BUILD PROMPT
-# ==========================================================
 
 def build_prompt(scene):
 
@@ -31,7 +27,7 @@ Requirements:
 - Mention whether it is stationary or moving.
 - Mention its starting and ending bearing.
 - Mention whether the signal is weak, moderate, strong or very strong.
-- Do NOT invent any information.
+- Do NOT invent any information.      
 - Use professional but readable English.
 - Keep the report within one short paragraph.
 
@@ -42,9 +38,9 @@ Scene JSON:
 Report:
 """
 
-# ==========================================================
+
 # GENERATE CAPTION USING GEMMA
-# ==========================================================
+
 
 def generate_caption(prompt):
 
@@ -60,9 +56,8 @@ def generate_caption(prompt):
 
     return response["message"]["content"]
 
-# ==========================================================
+
 # MAIN
-# ==========================================================
 
 print("Working Directory :", os.getcwd())
 print("Looking for JSONs :", os.path.abspath(JSON_FOLDER))
@@ -85,9 +80,8 @@ if len(files) == 0:
     print("No JSON files found.")
     exit()
 
-# ==========================================================
+
 # LOOP THROUGH ALL JSON FILES
-# ==========================================================
 
 for index, file in enumerate(files, start=1):
 
@@ -107,7 +101,7 @@ for index, file in enumerate(files, start=1):
 
         # Skip already generated captions
         if os.path.exists(caption_file):
-            print(f"[{index}/{len(files)}] ⏩ Skipping Scene {sim_id}")
+            print(f"[{index}/{len(files)}]  Skipping Scene {sim_id}")
             continue
 
         prompt = build_prompt(scene)
@@ -117,12 +111,12 @@ for index, file in enumerate(files, start=1):
         with open(caption_file, "w", encoding="utf-8") as f:
             f.write(caption)
 
-        print(f"[{index}/{len(files)}] ✅ Scene {sim_id}")
+        print(f"[{index}/{len(files)}] Scene {sim_id}")
 
     except Exception as e:
 
-        print(f"\n❌ Error processing {file}")
+        print(f"\n Error processing {file}")
         print(e)
         print()
 
-print("\n🎉 Caption generation complete!")
+print("\n Caption generation complete!")
