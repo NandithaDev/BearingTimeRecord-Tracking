@@ -1,1 +1,0 @@
-The sonar detected no targets during this simulation (simulation ID 148). The bearing range covered from 0 to 180 degrees. Due to the empty target list, no movement or signal strength data could be reported for any objects.

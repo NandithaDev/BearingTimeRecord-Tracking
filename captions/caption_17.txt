@@ -1,1 +1,0 @@
-The sonar detected a total of one target. This target exhibited a constant motion with an increasing trajectory, originating at a bearing of 108 and ending at a bearing of 157 over the course of 50 time steps. The signal strength was moderate, indicated by an SNR of 7 dB.

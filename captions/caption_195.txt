@@ -1,1 +1,0 @@
-The sonar detected zero targets during this simulation. No movement or signal strength data was recorded. 

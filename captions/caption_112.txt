@@ -1,1 +1,0 @@
-The sonar scene observed during simulation ID 112 involved zero detected targets. No movement or signatures were recorded within the bearing range of 0 to 180 degrees across the five observation time steps. Therefore, no further analysis regarding target characteristics such as signal strength or bearings was required.
