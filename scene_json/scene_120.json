@@ -12,18 +12,6 @@
         {
             "target_id": 1,
             "trajectory": [
-                117,
-                118,
-                119,
-                120,
-                121,
-                122,
-                123,
-                124,
-                125,
-                126,
-                127,
-                128,
                 129,
                 130,
                 131,
@@ -61,20 +49,37 @@
                 163,
                 164,
                 165,
-                166
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178
             ],
-            "start_bearing": 117,
-            "end_bearing": 166,
+            "start_bearing": 129,
+            "end_bearing": 178,
             "direction": "increasing",
             "motion": "constant",
             "velocity": 1,
             "duration": 50,
-            "snr_db": 0,
-            "visibility": "moderate"
+            "snr_db": 18,
+            "visibility": "very strong"
         },
         {
             "target_id": 2,
             "trajectory": [
+                151,
+                150,
+                149,
+                148,
+                147,
                 146,
                 145,
                 144,
@@ -119,21 +124,16 @@
                 105,
                 104,
                 103,
-                102,
-                101,
-                100,
-                99,
-                98,
-                97
+                102
             ],
-            "start_bearing": 146,
-            "end_bearing": 97,
+            "start_bearing": 151,
+            "end_bearing": 102,
             "direction": "decreasing",
             "motion": "constant",
             "velocity": -1,
             "duration": 50,
-            "snr_db": 9,
-            "visibility": "strong"
+            "snr_db": 1,
+            "visibility": "moderate"
         }
     ]
 }
